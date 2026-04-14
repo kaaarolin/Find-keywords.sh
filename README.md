@@ -5,7 +5,7 @@ Scans all `.sh` files in `sh-files/` modified within the last 30 days, reports e
 ## Requirements
 
 - bash 3.2+
-- `find`, `grep` (standard on Ubuntu/WSL)
+- `find`, `grep` 
 
 ## Usage
 
