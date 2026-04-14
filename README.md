@@ -2,15 +2,6 @@
 
 Scans all `.sh` files in `sh-files/` modified within the last 30 days, reports every line containing `read` or `echo`, and shows how many times each word occurs and writes to a .txt file.
 
-## Project structure
-.
-├── scripts/
-│   └── analyze-sh.sh   ← this script
-└── sh-files/              ← directory being scanned
-├── name.sh
-└── run_all.sh
-└── sh_analysis_report.sh
-
 ## Requirements
 
 - bash 3.2+
