@@ -38,6 +38,3 @@ bash scripts/find-keywords.sh
 
 Developed and tested on Ubuntu (WSL).
 
-## License
-
-MIT
